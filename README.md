@@ -4,6 +4,12 @@
 
 ---
 
+# 🎥 Project Video
+
+🔗 **[▶️ Watch Project Video](https://drive.google.com/file/d/1yEhX0hYp1oHaDBBEgQeLwp61AP3azoHO/view?usp=drive_link)**
+
+---
+
 ## 📑 Table of Contents
 
 1. [Project Overview](#-project-overview)
